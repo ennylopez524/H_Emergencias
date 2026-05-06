@@ -1,0 +1,6 @@
+@H_Emergencias_HostAddress = http://localhost:5139
+
+GET {{H_Emergencias_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
